@@ -12,6 +12,7 @@ functions, file handling, error handling, project structure, and testing.
 - Clean project structure (modules & packages)
 
 ## Project Structure
+```
 contact_book/
 │── main.py
 │── contacts.json
@@ -24,3 +25,4 @@ contact_book/
 └── tests/
 ├── conftest.py
 └── test_contacts.py
+```

@@ -17,7 +17,7 @@ functions, file handling, error handling, project structure, and testing.
   <img width="304" height="149" alt="Screenshot 2026-02-10 002043" src="https://github.com/user-attachments/assets/2acfd74b-ec97-4c45-b67d-6c9742adcb95" />
   <img width="451" height="155" alt="Screenshot 2026-02-10 002049" src="https://github.com/user-attachments/assets/2e3d379e-c94a-4027-a38d-eca643bc579f" />
   <img width="235" height="156" alt="Screenshot 2026-02-10 002147" src="https://github.com/user-attachments/assets/52a4acd4-d25a-4f3e-adbe-82f544e9a504" />
-  <img width="1010" height="129" alt="Screenshot 2026-02-10 003230" src="https://github.com/user-attachments/assets/661c175e-db8a-40ef-adfd-da7202588892" />
+  <img width="464" height="133" alt="image" src="https://github.com/user-attachments/assets/64aa8b95-e192-454a-ad8f-1454209fa739" />
 
 
 
